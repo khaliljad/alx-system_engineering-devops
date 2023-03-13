@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Contents of /etc/passwd:" && echo "Contents of /etc/hosts:"
+echo "Contents of /etc/passwd:"
